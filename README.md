@@ -7,8 +7,8 @@
 
 ### Libraries/Modules needed for the project!
 - Plotly, Seaborn - (To plot and visualize the data)
-- Pandas - (To Create a DataFrame with the scraped data)
-- Pymongo - (To store and retrieve the data)
+- Pandas - (To Clean and maipulate the data)
+- Pymongo - (To store and retrieve the data by connecting with MongoDB Atlas)
 - Streamlit - (To Create Graphical user Interface)
 
 ### Workflow :
