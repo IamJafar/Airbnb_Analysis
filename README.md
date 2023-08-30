@@ -5,7 +5,7 @@
 ### **Problem Statement :**
   This project aims to analyze Airbnb data using MongoDB Atlas, perform data cleaning and preparation, develop interactive geospatial visualizations, and create dynamic plots to gain insights into pricing variations, availability patterns, and location-based trends.
 
-### Tableau Dashboard Link : [Click Here to View my dashboard](https://public.tableau.com/app/profile/jafar.hussain5161/viz/AirbnbAnalysis_16930654810730/Dashboard1)
+### Tableau Dashboard Link : [Click here to view my Dashboard](https://public.tableau.com/app/profile/jafar.hussain5161/viz/AirbnbAnalysis_16930654810730/Dashboard1)
 
 ### Libraries/Modules needed for the project!
 - Plotly, Seaborn - (To plot and visualize the data)
@@ -30,4 +30,7 @@
 ### Dashboard Pic
 
 ![image](https://github.com/IamJafar/Airbnb_Analysis/assets/121713702/707d2d2a-0232-4e6c-94c6-2a9bddd55eba)
+
+
+#### My other Dashboards : [Take a Look](https://public.tableau.com/app/profile/jafar.hussain5161)
 
