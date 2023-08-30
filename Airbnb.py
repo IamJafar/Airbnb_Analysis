@@ -27,7 +27,7 @@ with st.sidebar:
                           )
 
 # CREATING CONNECTION WITH MONGODB ATLAS AND RETRIEVING THE DATA
-client = pymongo.MongoClient("mongodb+srv://jafarhussain:1996@cluster0.4gaz2ol.mongodb.net/?retryWrites=true&w=majority")
+client = pymongo.MongoClient("Enter your connection string")
 db = client.sample_airbnb
 col = db.listingsAndReviews
 
